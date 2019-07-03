@@ -1,3 +1,3 @@
 ## Learning git pong
 
-I want to be an awesome team member, this is just a test!
+I need to master this so I can be a good team member. GitPong allows for collaboration without geographical boundaries. It can be used when teams are co-located as well when they are distributed.
